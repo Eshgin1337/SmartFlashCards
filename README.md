@@ -4,10 +4,10 @@ This is a simple flash-card game built with Python and tkinter. It allows users 
 
 ### For example:
 #### French word
-<img src="Screenshots/French-word.PNG" alt="French word" width="400" height="200">
+<img src="Screenshots/French-word.PNG" alt="French word" width="600" height="300">
 
 #### Its meaning in English 
-<img src="Screenshots/English-word.PNG" alt="English word" width="400" height="200">
+<img src="Screenshots/English-word.PNG" alt="English word" width="600" height="300">
 
 ## Requirements
 Before running the game, you need to install the following Python libraries:
@@ -21,7 +21,7 @@ Before running the game, you need to install the following Python libraries:
     <li>
         Clone the repository:
     </li>
-    <b>git clone https://github.com/your-username/flash-card-game.git</b> <br>
+    <b>git clone https://github.com/Eshgin1337/SmartFlashCards.git</b> <br>
     <b>cd flash-card-game</b>
     <li>Install the required libraries using pip:</li>
     You will first need to create virtual environment in the directory where main.py file is located: <br>
